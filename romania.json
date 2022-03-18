@@ -1,0 +1,17 @@
+{
+    "eksport":{
+        "tot": 100.9,
+        "germany": 22,
+        "italy": 10,
+        "france": 7
+    },
+    "import": {
+        "tot": 111.1,
+        "germany": 19,
+        "italy": 9,
+        "hungary": 7,
+        "poland": 6,
+        "china": 5,
+        "france": 5
+    }
+}
